@@ -12,5 +12,7 @@ category:
   - Health
 maintainer: Simone Bocca
 maintainer_email: simone.bocca@gmail.com
-tags: ginomario
+tags: 
+  - gino
+  - mario
 ---
