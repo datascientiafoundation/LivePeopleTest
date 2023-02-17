@@ -10,4 +10,5 @@ resources:
 license: ''
 maintainer: ''
 maintainer_email: ''
+tags: ''
 ---
