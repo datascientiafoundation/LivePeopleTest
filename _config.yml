@@ -12,7 +12,7 @@ github_client_id: 671b4fd6ef510adbc97f
 gatekeeper_host: http://localhost:9999
 
 # Dataset schema
-schema: default
+schema: lpschema
 
 # Nav bar
 navigation:
